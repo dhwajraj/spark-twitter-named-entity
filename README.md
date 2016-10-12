@@ -1,7 +1,7 @@
 # spark-twitter-named-entity
 
 
-Sample Output Stream:
+Sample Output Stream: (one row corresponds to each tweet)
 
 ```
 Set(Microsoft Xbox)
@@ -11,6 +11,7 @@ Set(Russell Crowe, United Kingdom)
 Set(JS, Facebook, NPM)
 Set(National Anthem)
 Set(EXO)
+Set()
 Set(Verizon Wireless Android Smartphone, Samsung N920 Galaxy)
 Set(ProChat24 File)
 Set(US Supreme Court)
@@ -18,4 +19,5 @@ Set(Dusshera)
 Set(William Hill, Poker-Stars)
 Set(Social Media Surveillance, Instagram Share Data)
 Set(Jacob Osei Yeboah)
+ .............
 ```
