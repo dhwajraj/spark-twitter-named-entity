@@ -4,7 +4,8 @@
 Sample Output Stream:
 
 > Set(Microsoft Xbox)
-Set(Jacob Johanssen, Facebook)
+-Set(Jacob Johanssen, Facebook)
+
 Set(Spotify, Google, iTunes, Apple Music)
 Set(Russell Crowe, United Kingdom)
 Set(JS, Facebook, NPM)
