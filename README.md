@@ -4,7 +4,7 @@ This is a fast **named entity extraction** module which listens to twitter strea
 
 For simplicity this project is listening to all user public tweet stream and filtering based only on fortune 500 companies to get tweets related to corporates.
 
-> Note: this does not perform recognition of named entities into classes like person, location or organization.
+> Note: this does not perform recognition of named entities into classes like person, location or organization. Named Entity Extraction is useful for a next layer of class recognition/classification or knowledge base lookups.
 
 
 # Get Running
