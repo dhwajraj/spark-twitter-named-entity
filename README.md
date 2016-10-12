@@ -14,6 +14,8 @@ For simplicity this project is listening to all user public tweet stream and fil
 - Download already trained model from [**here**](http://downloads.gate.ac.uk/twitie/gate-EN-twitter.model)
 - Run TwitterMain.scala or do a spark-submit
 
+![spark-streaming-twitter-ner](https://cloud.githubusercontent.com/assets/9861437/19310027/bbfad5a0-90a5-11e6-830b-6607a8ef9aa6.jpg)
+
 # Sample Output Stream: 
 (one row corresponds to each tweet)
 
