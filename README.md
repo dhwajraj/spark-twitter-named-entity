@@ -1,7 +1,18 @@
 # spark-twitter-named-entity
 
+This is a fast **named entity extraction** module which listens to twitter stream and utilizes Spark Streaming.
+Note: this does not perform recognition of named entities into classes like person, location or organization.
 
-Sample Output Stream: (one row corresponds to each tweet)
+
+# Get Running
+- Checkout the project
+- Fill up your twitter keys in TwitterMain.scala
+- Do maven build
+- Download already trained model from [**here**](http://downloads.gate.ac.uk/twitie/gate-EN-twitter.model)
+- Run TwitterMain.scala or do a spark-submit
+
+# Sample Output Stream: 
+(one row corresponds to each tweet)
 
 ```
 Set(Microsoft Xbox)
@@ -19,5 +30,5 @@ Set(Dusshera)
 Set(William Hill, Poker-Stars)
 Set(Social Media Surveillance, Instagram Share Data)
 Set(Jacob Osei Yeboah)
- .............
+ .............continuous stream .....
 ```
