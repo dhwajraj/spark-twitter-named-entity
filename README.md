@@ -1,4 +1,4 @@
-# spark-twitter-named-entity
+# Twitter Named Entity extraction using Spark Streaming
 
 This is a fast **named entity extraction** module which listens to twitter stream and utilizes Spark Streaming.
 
