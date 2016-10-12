@@ -3,9 +3,9 @@
 
 Sample Output Stream:
 
-> Set(Microsoft Xbox)
--Set(Jacob Johanssen, Facebook)
-
+```
+Set(Microsoft Xbox)
+Set(Jacob Johanssen, Facebook)
 Set(Spotify, Google, iTunes, Apple Music)
 Set(Russell Crowe, United Kingdom)
 Set(JS, Facebook, NPM)
@@ -18,3 +18,4 @@ Set(Dusshera)
 Set(William Hill, Poker-Stars)
 Set(Social Media Surveillance, Instagram Share Data)
 Set(Jacob Osei Yeboah)
+```
